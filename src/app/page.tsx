@@ -13,6 +13,7 @@ export default async function Home() {
           <CardProducts key={idx} {...product} />
         ))}
       </div>
+      <h1>testing PR</h1>
     </main>
   );
 }
